@@ -4,7 +4,70 @@
 
     .exp{
         width: 1440px;
-       
+        margin: 0 auto;
+        padding: 0;
         
+        .title{
+            padding: 100px 0 0 100px;
+            p{
+                font-style: normal;
+                font-weight: 600;
+                font-size: 48px;  
+                color: #494949; 
+                margin: 0;
+                // text-align: center;
+            }
+            .line{
+                width: 160px;
+                border: 6px solid #FFA15E;
+                border-radius: 50px;
+                margin-top: 10px;   
+                // display: block;
+                // margin-left: auto;
+                // margin-right: auto; 
+            }
+
+            
+        }
+
+        .years{
+            display: grid;
+            padding: 74px 0px 0 0px;
+            grid-template-columns: 1fr 1fr 1fr 1fr;
+
+            .expdata{
+                h2{
+                  
+                    justify-content: center;
+                    font-style: normal;
+                    font-weight: 400;
+                    text-align: center;
+                    color: #494949;
+                    margin: 0 0 20px 0;
+                }
+                img{
+                    display: block;
+                    margin-left: auto;
+                    margin-right: auto;
+                    margin-bottom: 20px;
+                }
+                p{
+                    
+                    justify-content: center;
+                    font-style: normal;
+                    font-weight: 400;
+                    text-align: center;
+                    color: #494949;
+                    margin: 0;
+                }
+            }
+        }
+
+        .line2{
+            width: 1120px;
+            border: 2px dashed rgba(190, 190, 190, 0.5);
+            margin: 0 auto;
+            margin-top: -110px;
+        }
     }
 }
