@@ -4,6 +4,12 @@ import Header from './Header';
 import Banner from './Banner';
 import Exp from './Experience';
 import Whatido from './Whatido';
+import MobileApp from './MobileApp'
+import WebApp from "./WebApp";
+import MotionGraphic from "./MotionGraphic";
+import DigitalArt from "./DigitalArt";
+import Photography from "./Photography";
+import Footer from './Footer';
 
 const App = () => (
     <div className="App">
@@ -11,6 +17,12 @@ const App = () => (
       <Banner />
       <Exp />
       <Whatido />
+      <MobileApp />
+      <WebApp />
+      <MotionGraphic />
+      <DigitalArt />
+      <Photography />
+      <Footer />
     </div>
 );
 

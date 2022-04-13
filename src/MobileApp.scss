@@ -1,0 +1,81 @@
+.mobile-app{
+    height: 1210px ;
+    background: #F5F3FE;
+
+    .mobile{
+        width: 1440px ;
+        margin: 0 auto;
+        padding: 0;
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+
+        .screenshot{
+
+            img{
+               margin: 0;
+               padding: 0;
+            }
+
+            h3{
+               font-family: 'Open Sans';
+               font-style: normal;
+               font-weight: 400;
+               font-size: 18px;
+               color: #494949;     
+            }
+
+            .line{
+                width: 590px;
+                border: 0.1px solid #494949;
+                margin: 0 0 60px 0;
+            }
+        }
+
+        .gridone{
+            display: grid;
+            grid-template-rows: 276px 1fr;
+            margin: 100px 0 0 100px ;
+            padding: 0;
+
+            .title{
+
+                p{
+                    font-family: 'Open Sans';
+                    font-style: normal;
+                    font-weight: 600;
+                    font-size: 48px;
+                    color: #494949;
+                    margin: 0;
+                    padding: 0;
+                }
+
+                .line{
+                    width: 160px;
+                    border: 6px solid #FFA15E;
+                    border-radius: 50px;
+                    margin: 10px 0 40px 0;  
+                }
+
+                h3{
+                    font-family: 'Open Sans';
+                    font-style: normal;
+                    font-weight: 400;
+                    color: #494949;
+                    margin: 0;
+                    padding: 0;
+
+                }
+             }
+
+             
+
+        }
+        
+        .gridtwo{
+            display: grid;
+            grid-template-rows: 1fr 1fr;
+            margin: 100px 0 0 40px ;
+            padding: 0;
+        }
+    }
+}
