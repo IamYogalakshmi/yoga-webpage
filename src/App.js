@@ -3,12 +3,14 @@ import './App.scss';
 import Header from './Header';
 import Banner from './Banner';
 import Exp from './Experience';
+import Whatido from './Whatido';
 
 const App = () => (
     <div className="App">
       <Header />
       <Banner />
       <Exp />
+      <Whatido />
     </div>
 );
 
