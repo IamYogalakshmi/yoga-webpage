@@ -6,5 +6,45 @@
         width: 1440px ;
         margin: 0 auto;
         padding: 0;
+        display: grid;
+        grid-template-columns: 1fr 933px;
+
+        .digital{
+            margin: 200px 0 0 100px;
+        }
+
+        .data{
+
+            margin: auto 0 auto 63px;
+            p{
+                font-family: 'Open Sans';
+                font-style: normal;
+                font-weight: 600;
+                font-size: 48px;
+                color: #494949;
+                margin: 0;
+                padding: 0;
+            }
+
+            .line{
+                width: 160px;
+                border: 6px solid #FFA15E;
+                border-radius: 50px;
+                margin: 10px 0 40px 0;  
+            }
+
+            h3{
+                font-family: 'Open Sans';
+                font-style: normal;
+                font-weight: 400;
+                color: #494949;
+                margin: 0;
+                padding: 0;
+
+            }
+            img{
+                padding-top: 40px;
+            }
+        }
     }
 }
