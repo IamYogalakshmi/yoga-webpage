@@ -27,7 +27,7 @@ const socialmedia = [
     },
     {
         logo : Gmail,
-        link : 'iamyogalakshmi@gmail.com',
+        link : 'mailto:iamyogalakshmi@gmail.com',
     },
 ];
 
@@ -37,9 +37,11 @@ const Header = () => (
 
         <div className="content">
             <h2>Hi, there</h2>
-            <p>I'm Yogalakshmi</p>
-            <h1>I Design, Code, Motion Graphic, <br></br>
-                Illustrate, & Photograph .</h1>
+            <p>I'm Yoga</p>
+
+            <h1>I Design, Code, Illustrate, <br></br>
+                Motion Graphics & Photograph .</h1>
+
             <h3>I’m a UI/UX Designer, passionate in a creative works and learning<br></br>
              new things . I worked in Web3 projects like NFT, Blindbox, DAO,<br></br>
               Metaverse and Blockchain applications.  </h3> 

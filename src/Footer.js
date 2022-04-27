@@ -7,9 +7,9 @@ const Photography = () => (
         <div className="footer">
 
             <img src={Coffee} alt=""></img>
-            <h2>iamyogalakshmi@gamil.com <br></br>
-            Designed and Developed by Yoga</h2>
-
+            <h2>
+            Design and Developed by Yoga</h2>
+        
         </div>
     </div>
 );
