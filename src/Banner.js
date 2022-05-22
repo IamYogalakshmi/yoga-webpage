@@ -11,11 +11,11 @@ import { ExternalLink } from 'react-external-link';
 const socialmedia = [
     {
         logo : Dribble,
-        link :'https://example.com',
+        link :'https://dribbble.com/iam_yogalakshmi',
     },
     {
         logo : Behance,
-        link :'https://example.com',
+        link :'https://www.behance.net/yogalakrenugop1',
     },
     {
         logo : Twitter,
