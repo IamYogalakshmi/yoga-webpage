@@ -2,7 +2,7 @@ import React from "react";
 import './MobileApp.scss';
 import NFTapp from './Images/NFTapp.png';
 import Wander from './Images/Wanderapp.png';
-import Webpage from './Images/webpag.png';
+import Webpage from './Images/Instaretro.png';
 
 
 const MobileApp = () => (
@@ -36,7 +36,7 @@ const MobileApp = () => (
 
                 <div className="screenshot">
                     <img src={Webpage} alt=""></img>
-                    <h3>Photography web Page</h3>
+                    <h3>Instagram Retro</h3>
                     <div className="line"></div>
                 </div>
 
