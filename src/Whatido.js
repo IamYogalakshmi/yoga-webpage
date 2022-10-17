@@ -9,7 +9,7 @@ import Eduction from './Images/graduation.png';
 const workdata = [
     {
         img : UIUX,
-        text : 'UI/ UX Design',
+        text : 'Product Design (UIUX)',
     },
     {
         img : MGD,

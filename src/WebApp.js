@@ -1,7 +1,7 @@
 import React from "react";
 import './WebApp.scss';
 import NFTapp from './Images/NFTapp.png';
-import Wander from './Images/Wanderapp.png';
+import NFTweb from './Images/NFTweb.png';
 import Webpage from './Images/webpag.png';
 
 const WebApp = () => (
@@ -11,7 +11,7 @@ const WebApp = () => (
             <div className="gridone">
 
                 <div className="screenshot">
-                    <img src={Wander} alt=""></img>
+                    <img src={NFTweb} alt=""></img>
                     <h3>Travel App</h3>
                     <div className="line"></div>
                 </div>
