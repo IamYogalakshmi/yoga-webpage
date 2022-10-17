@@ -28,7 +28,7 @@ const data = [
     {
         title :'2021 - 2022',
         img : UIUX,
-        data : 'UI/UX',
+        data : 'Product',
         data2 : 'Designing'
     },
 ]

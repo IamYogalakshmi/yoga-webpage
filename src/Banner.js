@@ -42,7 +42,7 @@ const Header = () => (
             <h1>I Design, Code, Illustrate, <br></br>
                 Motion Graphics & Photograph .</h1>
 
-            <h3>I’m a UI/UX Designer, passionate in a creative works and learning<br></br>
+            <h3>I’m a Product Designer, passionate in a creative works and learning<br></br>
              new things . I worked in Web3 projects like NFT, Blindbox, DAO,<br></br>
               Metaverse and Blockchain applications.  </h3> 
 

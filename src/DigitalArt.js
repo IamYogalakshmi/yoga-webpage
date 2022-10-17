@@ -14,7 +14,7 @@ const DigitalArt = () => (
                 <h3>Procreate illustrations using <br></br> 
                 ipad and apple pencil </h3>
 
-                <ExternalLink href="https://www.instagram.com/fine.art.carnival/">
+                <ExternalLink href="https://www.instagram.com/scribble.art.yoga/">
                 <img src={button} alt=""></img>
                 </ExternalLink>
             </div>
