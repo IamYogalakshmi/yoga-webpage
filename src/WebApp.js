@@ -1,6 +1,6 @@
 import React from "react";
 import './WebApp.scss';
-import NFTapp from './Images/NFTapp.png';
+import DAO from './Images/DAO.png';
 import NFTweb from './Images/NFTweb.png';
 import Webpage from './Images/webpag.png';
 
@@ -12,7 +12,7 @@ const WebApp = () => (
 
                 <div className="screenshot">
                     <img src={NFTweb} alt=""></img>
-                    <h3>Travel App</h3>
+                    <h3>NFT Bidding Page</h3>
                     <div className="line"></div>
                 </div>
 
@@ -34,8 +34,8 @@ const WebApp = () => (
                 </div>
 
                 <div className="screenshot">
-                    <img src={NFTapp} alt=""></img>
-                    <h3>NFT Mobile App</h3>
+                    <img src={DAO} alt=""></img>
+                    <h3>DAO Proposal Page</h3>
                     <div className="line"></div>
                 </div>
                 
