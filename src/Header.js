@@ -13,9 +13,9 @@ const Header = () => (
 
         <div className="menu">
           <ul>
-            <li><p>About</p></li>
+            <li><p></p></li>
             <li>
-            <ExternalLink href="https://www.behance.net/gallery/144304311/UIUX-Resume?share=1" style={{ color: 'inherit', textDecoration: 'inherit'}}  >
+            <ExternalLink href="https://iamyoga.notion.site/Yoga-Portfolio-f73d88ddd0054e25ab3fd496bde272df" style={{ color: 'inherit', textDecoration: 'inherit'}}  >
               <p > Portfolio </p>
             </ExternalLink></li>
           </ul>
